@@ -1,4 +1,4 @@
-![Resim Açıklaması](https://i.hizliresim.com/3bc5fi6.jpg)
+![GoodbyeDPI Türkiye](https://i.hizliresim.com/3bc5fi6.jpg)
 
 # goodbyedpi-turkiye
 GoodbyeDPI Türkiye UI Görünümlü Program
